@@ -1,5 +1,5 @@
-const Text = (props) => {
-  return <p>{props.text}</p>;
+const Text = ({ text }) => {
+  return <p>{text}</p>;
 };
 
 export default Text;

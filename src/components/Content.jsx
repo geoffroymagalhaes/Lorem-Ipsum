@@ -1,8 +1,10 @@
-const Content = (props) => {
+import Title from "./Title";
+import Text from "./Text";
+const Content = ({ title, text }) => {
   return (
-    <div className={props.className}>
-      <h2>{props.title} </h2>
-      <p>{props.text}</p>
+    <div className="backGroundContainer">
+      <Title title={title} />
+      <Text text={text} />
     </div>
   );
 };

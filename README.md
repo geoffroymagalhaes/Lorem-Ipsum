@@ -1,8 +1,13 @@
-# React + Vite
+# Lorem-Ipsum
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lorem-Ipsum is a introduction on how to iniate a React project with Vite and understand how to split a project in a components folder.
 
-Currently, two official plugins are available:
+## Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App.jsx-Content.jsx](./src/assets/img/Capture%20d’écran%202024-03-23%20à%2010.57.13.png)
+
+![Text.jsx-Title.jsx](./src/assets/img/Capture%20d’écran%202024-03-23%20à%2010.57.55.png)
+
+## Link to my linkedin
+
+www.linkedin.com/in/geoffroy-magalhaes-3345872b5
